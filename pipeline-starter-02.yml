@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  
+  #sth sth sth
   vmImage: ubuntu-latest
 
 steps:
